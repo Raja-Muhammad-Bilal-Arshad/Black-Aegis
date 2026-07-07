@@ -1123,4 +1123,3 @@ This framework is also intended for **educational purposes** to help:
 *"We do not test defenses. We become the threat."*
 
 </div>
-]]>
